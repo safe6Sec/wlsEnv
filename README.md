@@ -4,6 +4,11 @@ weblogic 复现用
 # 说明
 存一点jar包，环境可用这个搭建https://github.com/QAX-A-Team/WeblogicEnvironment
 
+JDK安装包下载地址：https://www.oracle.com/technetwork/java/javase/archive-139210.html    
+Weblogic安装包下载地址：https://www.oracle.com/technetwork/middleware/weblogic/downloads/wls-for-dev-1703574.html
+
+
+
 # 远程调试
 
 修改 `/root/Oracle/Middleware/user_projects/domains/base_domain/bin/setDomainEnv.sh` 在上方加入两行debug配置,然后就可以像普通项目一样正常debug了
