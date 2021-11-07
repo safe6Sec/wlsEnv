@@ -18,6 +18,18 @@ debugFlag="true"
 export debugFlag
 ```
 
+# 获取jar
+```bash
+
+cd /root/Oracle/Middleware 
+
+mkdir test
+find ./ -name "*.jar" -exec cp {} ./test/ \;
+find ./ -name "*.war" -exec cp {} ./test/ \;
+
+tar cvf jar.tar ./test/
+```
+
 # cve
 
 基于T3协议漏洞： CVE-2015-4582、CVE-2016-0638、CVE-2016-3510、CVE-2018-2628、CVE-2020-2555、CVE-2020-2883    
