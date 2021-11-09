@@ -2,10 +2,15 @@
 weblogic 复现用
 
 # 说明
-存一点jar包，环境可用这个搭建https://github.com/QAX-A-Team/WeblogicEnvironment
+存一点jar包，环境可用这个搭建https://github.com/QAX-A-Team/WeblogicEnvironment    
 
-JDK安装包下载地址：https://www.oracle.com/technetwork/java/javase/archive-139210.html    
-Weblogic安装包下载地址：https://www.oracle.com/technetwork/middleware/weblogic/downloads/wls-for-dev-1703574.html
+JDK安装包下载地址：https://www.oracle.com/technetwork/java/javase/archive-139210.html      
+Weblogic安装包下载地址：https://www.oracle.com/technetwork/middleware/weblogic/downloads/wls-for-dev-1703574.html     
+
+oracle账号最新有效的   
+---- 602205528@qq.com   
+---- Hkk.1314   
+亲测可用（2021.10.16）   
 
 
 
