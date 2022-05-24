@@ -12,6 +12,13 @@ oracle账号最新有效的
 ---- Hkk.1314   
 亲测可用（2021.10.16）   
 
+# java 版本
+卸载自带java
+```
+dpkg --list | grep jdk
+sudo apt remove jdk-11.0.10
+sudo apt remove "openjdk*"
+```
 
 
 # 远程调试
